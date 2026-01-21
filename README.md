@@ -24,6 +24,3 @@ Random Forest achieved the highest accuracy and was selected as the final model.
 - Scikit-learn
 - Matplotlib
 - Seaborn
-
-## Author
-Prakash
